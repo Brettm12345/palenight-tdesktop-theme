@@ -4,5 +4,5 @@
 
 ## About
 Telegram theme based on <a
-href="https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme>
-Material Palenight Theme</a>
+href="https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme">
+Material Palenight Theme </a>
